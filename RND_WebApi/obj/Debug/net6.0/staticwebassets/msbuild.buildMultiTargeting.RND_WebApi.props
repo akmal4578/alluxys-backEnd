@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RND_WebApi.props" />
+</Project>

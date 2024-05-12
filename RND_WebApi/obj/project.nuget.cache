@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3HE1N4iXz65M4FNsjWTPXbkhTzjHplal6iJEJTY/iGEz0Krr8WlkCF0U3drj9cwktP0wFN8TTQB2Xbfq1JFAYQ==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\RND_WEBApi\\RND_WebApi\\RND_WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS TUF\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ASUS TUF\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ASUS TUF\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\ASUS TUF\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\ASUS TUF\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\ASUS TUF\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
