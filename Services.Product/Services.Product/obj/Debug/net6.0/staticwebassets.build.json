@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "3P+yoaphirHZOsLowJ9XcycJbxByg5taQQ3hnk5G6P8=",
+  "Source": "Services.Product",
+  "BasePath": "_content/Services.Product",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\ASUS TUF\\OneDrive - Universiti Teknologi MARA\\Desktop\\DataAccessLayer\\DataAccessLayer\\DataAccessLayer.csproj",
+      "Version": 2,
+      "Source": "DataAccessLayer",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
